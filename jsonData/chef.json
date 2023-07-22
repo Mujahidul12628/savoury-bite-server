@@ -1,0 +1,47 @@
+[
+    {
+        "chef_id": "CHEF002",
+        "chef_name": "Maria Rodriguez",
+        "years_of_experience": 7,
+        "num_recipes": 40,
+        "likes": "10k",
+        "picture": "https://i.ibb.co/bJ4WS9c/Akbar.jpg",
+        "bio": "Maria Rodriguez is a self-taught chef who grew up in a family of passionate cooks. She has a talent for creating bold and flavorful dishes that are both comforting and exciting. Maria Rodriguez's signature style is influenced by her Mexican heritage, and she loves to experiment with new ingredients and techniques. When she's not cooking, Maria Rodriguez enjoys spending time with her family and practicing yoga."
+    },
+    {
+        "chef_id": "CHEF003",
+        "chef_name": "David Lee",
+        "years_of_experience": 15,
+        "num_recipes": 80,
+        "likes": "13k",
+        "picture": "https://i.ibb.co/hd3CnrK/Akbar.jpg",
+        "bio": "David Lee is a pastry chef with a passion for all things sweet. He has worked in some of the most prestigious pastry kitchens in the world, and has won numerous awards for his innovative creations. Chef David is known for his attention to detail and his ability to balance flavors and textures in his desserts. In his free time, he enjoys hiking and exploring the outdoors."
+    },
+    {
+        "chef_id": "CHEF004",
+        "chef_name": "Sara Johnson",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": "3k",
+        "picture": "https://i.ibb.co/9y49tB3/Akbar-Custom.jpg",
+        "bio": "Sara Johnson is a chef and food writer who is passionate about local and sustainable food. She believes that food is a powerful tool for bringing people together, and loves to create dishes that are both delicious and thought-provoking. Sara Johnson is also an advocate for food justice, and works to promote access to healthy, affordable food in underserved communities."
+    },
+    {
+        "chef_id": "CHEF005",
+        "chef_name": "Andrew Chen",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": "18k",
+        "picture": "https://i.ibb.co/GWKGrXv/Ihsaan.jpg",
+        "bio": "Andrew Chen is a chef and restaurateur with a focus on farm-to-table cuisine. He sources his ingredients from local farmers and producers, and believes in showcasing the natural flavors of the ingredients in his dishes. Andrew Chen is also a passionate advocate for sustainable food practices, and works to reduce waste and promote environmentally responsible practices in his restaurants."
+    },
+    {
+        "chef_id": "CHEF006",
+        "chef_name": "Julia Kim",
+        "years_of_experience": 8,
+        "num_recipes": 30,
+        "likes": "21k",
+        "picture": "https://i.ibb.co/BGNLh13/Siraj.jpg",
+        "bio": "Julia Kim is a vegan chef and cookbook author who is passionate about plant-based cooking. She believes that vegan food can be just as delicious and satisfying as meat-based dishes, and loves to experiment with new ingredients and flavors. Chef Sarah's dishes are creative, colorful, and packed with nutrients. In her free time, she enjoys hiking and practicing yoga."
+    }
+]
